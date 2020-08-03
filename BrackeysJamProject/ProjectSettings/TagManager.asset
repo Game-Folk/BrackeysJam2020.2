@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 4256582723
+    locked: 0
+  - name: Shelves
+    uniqueID: 1243908791
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Counter
+    uniqueID: 3585454147
+    locked: 0
+  - name: Player
+    uniqueID: 3487256905
+    locked: 0
+  - name: Tapes
+    uniqueID: 3348744371
     locked: 0
